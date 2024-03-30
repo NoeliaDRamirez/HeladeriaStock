@@ -1,0 +1,107 @@
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.frmCondicionsFiscal.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.dll.config
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\Heladeria.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CopyComplete
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.dll.config
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\Heladeria.Data.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CopyComplete
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmProveedor.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.frmCliente.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmPanel.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmCategoria.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmTipoPago.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.frmCondicionFiscal.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.frmArticulo.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.frmCompra.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.frmDetalleCompra.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmRepartidor.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmVenta.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmDetalleVenta.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeMasVendidos.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeCaja.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeMayorGanacia.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeStock.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeTotalVentas.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmAcercaDe.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\itextsharp.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\bin\Debug\itextsharp.xml
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmAreaEnvio.resources
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria\obj\Debug\Heladeria.frmPedido.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\itextsharp.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.Data.EntityFramework.dll.config
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\Heladeria.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\bin\Debug\itextsharp.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmAcercaDe.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmAreaEnvio.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.frmArticulo.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmCategoria.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.frmCliente.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.frmCompra.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.frmCondicionFiscal.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.frmDetalleCompra.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmDetalleVenta.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeCaja.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeMasVendidos.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeMayorGanacia.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeStock.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmInformeTotalVentas.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmPanel.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.frmPedido.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmProveedor.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmRepartidor.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmTipoPago.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Formularios.frmVenta.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CopyComplete
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria\obj\Debug\Heladeria.pdb

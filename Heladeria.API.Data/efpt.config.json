@@ -1,0 +1,105 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "HeladeriaEntidadesContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Heladeria.API.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AreaEnvio]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Articulo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Categoria]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Compra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CondicionFiscal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DetalleCompra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DetalleVenta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InformeCaja]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InformeMasVendidos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InformeMayorGanancia]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pedido]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Proveedor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Repartidor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TipoPago]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Usuario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Venta]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "laptop-iagks8vt\\sqlexpress.Heladeria.dbo",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

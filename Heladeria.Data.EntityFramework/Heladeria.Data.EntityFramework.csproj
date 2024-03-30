@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{509CFBDF-2F9F-4178-BDAD-028A1E53F013}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Heladeria.Data.EntityFramework</RootNamespace>
+    <AssemblyName>Heladeria.Data.EntityFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AreaEnvio.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Articulo.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Cliente.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Compra.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CondicionFiscal.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleCompra.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleVenta.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\AreaEnvio.cs" />
+    <Compile Include="Entidades\Articulo.cs" />
+    <Compile Include="Entidades\Categoria.cs" />
+    <Compile Include="Entidades\Cliente.cs" />
+    <Compile Include="Entidades\Compra.cs" />
+    <Compile Include="Entidades\CondicionFiscal.cs" />
+    <Compile Include="Entidades\DetalleCompra.cs" />
+    <Compile Include="Entidades\DetalleVenta.cs" />
+    <Compile Include="Entidades\InformeCaja.cs" />
+    <Compile Include="Entidades\InformeMasVendidos.cs" />
+    <Compile Include="Entidades\InformeMayorGanacia.cs" />
+    <Compile Include="Entidades\Pedido.cs" />
+    <Compile Include="Entidades\Proveedor.cs" />
+    <Compile Include="Entidades\Repartidor.cs" />
+    <Compile Include="Entidades\TipoPago.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="Entidades\Venta.cs" />
+    <Compile Include="Filtros\FiltroAreaEnvio.cs" />
+    <Compile Include="Filtros\FiltroArticulo.cs" />
+    <Compile Include="Filtros\FiltroBase.cs" />
+    <Compile Include="Filtros\FiltroCategoria.cs" />
+    <Compile Include="Filtros\FiltroCliente.cs" />
+    <Compile Include="Filtros\FiltroCompra.cs" />
+    <Compile Include="Filtros\FiltroCondicionFiscal.cs" />
+    <Compile Include="Filtros\FiltroDetalleCompra.cs" />
+    <Compile Include="Filtros\FiltroDetalleVenta.cs" />
+    <Compile Include="Filtros\FiltroInformeCaja.cs" />
+    <Compile Include="Filtros\FiltroInformeMasVendidos.cs" />
+    <Compile Include="Filtros\FiltroInformeMayorGanacia.cs" />
+    <Compile Include="Filtros\FiltroPedido.cs" />
+    <Compile Include="Filtros\FiltroProveedor.cs" />
+    <Compile Include="Filtros\FiltroRepartidor.cs" />
+    <Compile Include="Filtros\FiltroTipoPago.cs" />
+    <Compile Include="Filtros\FiltroUsuario.cs" />
+    <Compile Include="Filtros\FiltroVenta.cs" />
+    <Compile Include="HeladeriaModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HeladeriaModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HeladeriaModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="HeladeriaModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HeladeriaModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="InformeCaja.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="InformeMasVendidos.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="InformeMayorGanancia.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proveedor.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Repartidor.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Repositorio.cs" />
+    <Compile Include="sysdiagrams.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TipoPago.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Venta.cs">
+      <DependentUpon>HeladeriaModel.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <EntityDeploy Include="HeladeriaModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>HeladeriaModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="HeladeriaModel.edmx.diagram">
+      <DependentUpon>HeladeriaModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HeladeriaModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HeladeriaModel.edmx</DependentUpon>
+      <LastGenOutput>HeladeriaModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="HeladeriaModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>HeladeriaModel.edmx</DependentUpon>
+      <LastGenOutput>HeladeriaModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Heladeria.Data\Heladeria.Data.csproj">
+      <Project>{c7eaa2db-c1d9-4d21-bbe2-d7e73886c6a6}</Project>
+      <Name>Heladeria.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

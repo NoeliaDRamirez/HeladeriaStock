@@ -1,0 +1,28 @@
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.csproj.AssemblyReference.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.AssemblyInfoInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.AssemblyInfo.cs
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.deps.json
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.runtimeconfig.json
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\refint\Heladeria.API.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.genruntimeconfig.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\ref\Heladeria.API.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.deps.json
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.runtimeconfig.json
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\bin\Debug\net6.0\Heladeria.API.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.AssemblyInfoInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.AssemblyInfo.cs
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\refint\Heladeria.API.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\Heladeria.API.Data.genruntimeconfig.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.API.Data\obj\Debug\net6.0\ref\Heladeria.API.Data.dll

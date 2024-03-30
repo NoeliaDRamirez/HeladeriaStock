@@ -1,0 +1,42 @@
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.dll.config
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.CopyComplete
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.dll.config
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.CopyComplete
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.dll.config
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.EntityFramework.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\Heladeria.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.csproj.CopyComplete
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria (14)\Heladeria\Heladeria.Data.EntityFramework\obj\Debug\Heladeria.Data.EntityFramework.pdb

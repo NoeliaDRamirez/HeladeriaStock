@@ -1,0 +1,15 @@
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\bin\Debug\netstandard2.0\HeladeriaApp.deps.json
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\bin\Debug\netstandard2.0\HeladeriaApp.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\bin\Debug\netstandard2.0\HeladeriaApp.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.csproj.AssemblyReference.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.AssemblyInfoInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.AssemblyInfo.cs
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.csproj.CoreCompileInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\refint\HeladeriaApp.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\HeladeriaApp.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\HeladeriaApp\HeladeriaApp\obj\Debug\netstandard2.0\ref\HeladeriaApp.dll

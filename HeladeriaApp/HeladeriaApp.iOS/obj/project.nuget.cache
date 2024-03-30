@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbtvZ/M64nf39xJJzt/7z2EhnMECzNnX8h3kOm3lDz3usufg+qVFc7hxrhMAky3l+7UbshaHu/2o2u/+trDK7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\goya\\Documents\\Programacion\\4 Cuarto Cuatrimestre\\Metodologia de Sistemas 1\\Heladeria\\HeladeriaApp\\HeladeriaApp.iOS\\HeladeriaApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goya\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\goya\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\goya\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

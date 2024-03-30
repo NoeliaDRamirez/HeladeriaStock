@@ -1,0 +1,12 @@
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data\bin\Debug\Heladeria.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data\bin\Debug\Heladeria.Data.pdb
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.dll
+C:\Users\Francisco\Desktop\metodologia de sistemas\TPI\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data\bin\Debug\Heladeria.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data\bin\Debug\Heladeria.Data.pdb
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.csproj.AssemblyReference.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.csproj.CoreCompileInputs.cache
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.dll
+C:\Users\goya\Documents\Programacion\4 Cuarto Cuatrimestre\Metodologia de Sistemas 1\Heladeria\Heladeria.Data\obj\Debug\Heladeria.Data.pdb
